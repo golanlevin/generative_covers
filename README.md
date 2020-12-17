@@ -1,6 +1,8 @@
 ## Generative Book Covers
 
-This page compiles examples of large-run printed books with generative cover designs. For the purposes of this repository, "generative" means each copy is unique, and "large run" means it does not consider print-on-demand. 
+This document compiles examples of large-run printed books with generative cover designs. For the purposes of this repository, "generative" means each copy is unique, and "large run" means this document does not consider print-on-demand.
+
+The purpose of this page is to help you convince your reluctant publisher that *Yes, This Is Possible, It's Really Cool, And It's Not That Difficult.*
 
 These materials were originally presented in a Twitter thread [here](https://twitter.com/golan/status/1282703748188590082). Thanks to everyone who contributed links.
 
@@ -10,7 +12,13 @@ These materials were originally presented in a Twitter thread [here](https://twi
 
 ---
 
-![Richard Dawkins book covers](images/richard-dawkins-gif.gif)<br />In 2016, Penguin Books re-released Richard Dawkins' books with unique, computationally generated covers. [**LINK**](https://format.com/magazine/resources/design/richard-dawkins-unique-book-covers)
+![Brendan Dawes for Field Notes](images/field_notes_dawes.jpg)
+
+Generative artist Brendan Dawes was invited to create 99,999 unique covers for the 2020 *Field Notes Winter Edition* of their popular sketchbooks. Dawes developed a procedural snowflake generator in Houdini. Dawes' development process of this "Snowy Evening" cover art series is discussed in a Field Notes blog post. [**LINK**](https://fieldnotesbrand.com/dispatches/2020/snowmaker).
+
+---
+
+![Richard Dawkins book covers](images/richard-dawkins-gif.gif)<br />In 2016, Penguin Books re-released Richard Dawkins' books with unique, computationally generated covers created using Dawkins' *Blind Watchmaker* software. [**LINK**](https://format.com/magazine/resources/design/richard-dawkins-unique-book-covers)
 
 ---
 
@@ -39,7 +47,16 @@ In 2012, London-based design studio Field.io generated 10,000 unique covers for 
 
 ---
 
-![Hot Chip album covers](images/hot_chip_album_cover_2015.jpg)<br />*Why Make Sense?* (2015) is the sixth studio album by English electronic music band, Hot Chip. For vinyl and compact disc copies, the album's cover art was printed with 130,000 variations of its design, a Moiré interference pattrn. Nominated for *Design of The Year* by the London Design Museum. [**LINK**](https://en.m.wikipedia.org/wiki/Why_Make_Sense%3F)
+![Hot Chip album covers](images/hot_chip_album_cover_2015.jpg)<br />*Why Make Sense?* (2015) is the sixth studio album by English electronic music band, Hot Chip. For vinyl and compact disc copies, the album's cover art was printed with 130,000 variations of its design, a Moiré interference pattrn. This album cover was nominated for *Design of The Year* by the London Design Museum. [**LINK**](https://en.m.wikipedia.org/wiki/Why_Make_Sense%3F)
 
+---
 
+### Related Projects
 
+![Written Images](images/written_images.jpg)
+
+In 2010, Hyperwerk students Martin Fuchs and Peter Bichsel used digital print-on-demand techniqiues to create [*Written Images*](http://writtenimages.net/), an entirely procedurally generated book in which each of the 230 uniquely-calculated copies compiled unique images produced by generative software created by 42 different artists. [**LINK**](https://vimeo.com/18220979)
+
+---
+
+Nick Montfort maintains a list of [computer-generated books](https://nickm.com/post/2016/07/computer-generated-books/).
