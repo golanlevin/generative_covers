@@ -47,7 +47,7 @@ In 2012, London-based design studio Field.io generated 10,000 unique covers for 
 
 ---
 
-![Hot Chip album covers](images/hot_chip_album_cover_2015.jpg)<br />*Why Make Sense?* (2015) is the sixth studio album by English electronic music band, Hot Chip. For vinyl and compact disc copies, the album's cover art was printed with 130,000 variations of its design, a Moiré interference pattrn. This album cover was nominated for *Design of The Year* by the London Design Museum. [**LINK**](https://en.m.wikipedia.org/wiki/Why_Make_Sense%3F)
+![Hot Chip album covers](images/hot_chip_album_cover_2015.jpg)<br />*Why Make Sense?* (2015) is the sixth studio album by English electronic music band, Hot Chip. For vinyl and compact disc copies, the album's cover art was printed with 130,000 variations of its design, a Moiré interference pattern. This album cover was nominated for *Design of The Year* by the London Design Museum. [**LINK**](https://en.m.wikipedia.org/wiki/Why_Make_Sense%3F)
 
 ---
 
