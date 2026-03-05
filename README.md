@@ -59,4 +59,5 @@ In 2010, Hyperwerk students Martin Fuchs and Peter Bichsel used digital print-on
 
 ---
 
-Nick Montfort maintains a list of [computer-generated books](https://nickm.com/post/2016/07/computer-generated-books/).
+* Nick Montfort maintains a list of [computer-generated books](https://nickm.com/post/2016/07/computer-generated-books/).
+* Speculative [generative book cover project](https://www.instagram.com/p/DVTr3L4iO8w/) by Stig Møller Hansen.
